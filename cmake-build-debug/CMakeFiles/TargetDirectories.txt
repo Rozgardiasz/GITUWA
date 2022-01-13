@@ -1,0 +1,3 @@
+D:/DANTEUSZ/GITUWA/cmake-build-debug/CMakeFiles/GITUWA.dir
+D:/DANTEUSZ/GITUWA/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DANTEUSZ/GITUWA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
